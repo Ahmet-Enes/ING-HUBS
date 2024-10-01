@@ -6,8 +6,8 @@ All urls except /login and /register need authentication.
 
 Project default port is 8080 and can be changed from application.yml
 
-It uses h2 as database nad jwt as autherization token.
+It uses h2 as database and jwt as autherization token.
 
 Token must be given as Bearer Token for autherization & authentication.
 
-Detail of this project can be found at pdf which is delivired via email.
+Detail of this project can be found at pdf which is delivered via email.
